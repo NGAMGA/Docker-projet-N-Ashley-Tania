@@ -14,6 +14,7 @@ Ce projet utilise Docker Compose pour lancer une application Flask, une base MyS
 
 1. Cloner le projet
    git clone https://github.com/NGAMGA/Docker-projet-N-Ashley-Tania.git
+   
    cd Docker-projet-N-Ashley-Tania
 
 2. Préparer les variables d'environnement
