@@ -37,6 +37,7 @@ Ce projet utilise Docker Compose pour lancer une application Flask, une base MyS
    mot de passe : bandpass
 
 5. Construire l’image pour la mise en productions
+
    docker build -t bandnamesgenerator:1.0.0 ./web
 
 ## Gestion des environnements
