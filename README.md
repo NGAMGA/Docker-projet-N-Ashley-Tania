@@ -20,7 +20,6 @@ Ce projet utilise Docker Compose pour lancer une application Flask, une base MyS
 2. Préparer les variables d'environnement
    cp .env.dist .env
 
-   (Vous pouvez modifier ce fichier si nécessaire.)
 
 3. Lancer les services
    docker compose up --build
@@ -35,7 +34,7 @@ Ce projet utilise Docker Compose pour lancer une application Flask, une base MyS
 
    mot de passe : bandpass
 
-5. Construire l’image pour la mise en production (comme demandé dans le sujet)
+5. Construire l’image pour la mise en productions
    docker build -t bandnamesgenerator:1.0.0 ./web
 
 ## Gestion des environnements
