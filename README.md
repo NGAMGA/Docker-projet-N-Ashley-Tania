@@ -13,6 +13,7 @@ Générateur de noms de groupes – Projet Docker
 Ce projet utilise Docker Compose pour lancer une application Flask, une base MySQL et un outil d’administration.
 
 1. Cloner le projet
+
    git clone https://github.com/NGAMGA/Docker-projet-N-Ashley-Tania.git
    
    cd Docker-projet-N-Ashley-Tania
