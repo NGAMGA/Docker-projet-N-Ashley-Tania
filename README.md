@@ -18,10 +18,12 @@ Ce projet utilise Docker Compose pour lancer une application Flask, une base MyS
    cd Docker-projet-N-Ashley-Tania
 
 2. Préparer les variables d'environnement
+
    cp .env.dist .env
 
 
 3. Lancer les services
+
    docker compose up --build
 
 4. Accéder aux services
